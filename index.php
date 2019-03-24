@@ -128,7 +128,7 @@
 <div class="form-group">
   <label class="col-md-12 control-label" for="mob"></label>  
   <div class="col-md-12">
-  <input id="mob" name="mob" placeholder="Enter your mobile number" class="form-control input-md" type="number"pattern="[7-9]{1}[0-9]{9}" required>
+  <input id="mob" name="mob" placeholder="Enter your mobile number" class="form-control input-md" type="number"pattern="[0-9]{10}" required>
     
   </div>
 </div>
